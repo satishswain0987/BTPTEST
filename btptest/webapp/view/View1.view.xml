@@ -1,8 +1,0 @@
-<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sapbtp.btptest.controller.View1">
-    <Page id="page" title="{i18n>title}">
-    <content>
-        <Button xmlns="sap.m" text="Date" id="button0"/>
-        <sap.ui.unified:Calendar xmlns:sap.ui.unified="sap.ui.unified" id="calendar0"/>
-    </content>
-    </Page>
-</mvc:View>
